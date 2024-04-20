@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rteppwr
-- 👀 I’m interested in Coding & Gaming
-- 🌱 I’m currently learning How to code
-- 💞️ I’m looking to collaborate on some good stuff
+- 👀 I’m no longer interested in Coding & Gaming
+- 🌱 I’m currently learning why I never want to code
+- 💞️ I’m looking to do literally anything else
 - 📫 How to reach me: pitr.prase@gmail.com
 
 <!---
